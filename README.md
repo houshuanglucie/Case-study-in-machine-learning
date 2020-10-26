@@ -2,7 +2,7 @@
 
 *This is one of the courses in Coursera which gets hands-on experience with machine learning from a series of practical case-studies. - october 2020*
 
-$\color{red}{Note}$: The entire programming exercises are done with the `turicreate` package which cannot be run on my own computer; and the SFrame data is too heavy which cannot be uploaded on github. Therefore, all data and programming codes are stored in [my Google Colab](https://drive.google.com/drive/folders/1fpGzTX6FYNnRq42a2VozhCPz5jAOUygl).
+<font color=red>Note</font>: The entire programming exercises are done with the `turicreate` package which cannot be run on my own computer; and the SFrame data is too heavy which cannot be uploaded on github. Therefore, all data and programming codes are stored in [my Google Colab](https://drive.google.com/drive/folders/1fpGzTX6FYNnRq42a2VozhCPz5jAOUygl).
 
 <br>
 
