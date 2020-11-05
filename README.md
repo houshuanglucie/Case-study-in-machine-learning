@@ -1,6 +1,6 @@
 # Case-study-in-machine-learning
 
-*This is one of the courses in Coursera which gets hands-on experience with machine learning from a series of practical case-studies. - october 2020*
+*This is one of the courses in Coursera which gets hands-on experience with machine learning from a series of practical case-studies. ([View Certificate(https://www.coursera.org/account/accomplishments/verify/WQZ6VX65ZD7K)) - october 2020*
 
 #### ***Note***: 
 The entire programming exercises are done with the `turicreate` package which cannot be run on my own computer; and the SFrame data is too heavy which cannot be uploaded on github. Therefore, all data and programming codes are stored in [my Google Colab](https://drive.google.com/drive/folders/1fpGzTX6FYNnRq42a2VozhCPz5jAOUygl), where you can run it directly.
